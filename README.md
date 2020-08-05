@@ -1,2 +1,2 @@
-# Games-by-Yash
-Games by me!
+# trex
+Chrome's trex game created using p5.play
